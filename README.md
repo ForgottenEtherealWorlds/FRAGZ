@@ -69,7 +69,7 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 
 * **Type:** ERC20
 * **Network**: Ethereum
-* **Supply**: 1296130.875 (after 5 years)
+* **Supply**: 1,296,130.875 (after 5 years)
 * **Contract** (address): 0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (deployed): https://etherscan.io/address/0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (code):
@@ -86,9 +86,9 @@ Notes:
 * Supply: 345
 * FRAGZ yield per day: 2
 * Days since first mint: 55.5
-* **FRAGZ yield to date:** 345 * 2 * 55.5 = **38295**
+* **FRAGZ yield to date:** 345 * 2 * 55.5 = **38,295**
 * Days from mint to end date: 1826.2125
-* **FRAGZ yield (max):** 345 * 2 * 1826.2125 = **1260086.625**
+* **FRAGZ yield (max):** 345 * 2 * 1826.2125 = **1,260,086.625**
 
 **Genesis Prime**
 *  Supply: 5
@@ -96,12 +96,12 @@ Notes:
 *  Days since first mint: 31.5
 *  **FRAGZ yielded to date:** 5 * 4 * 31.5 = **630**
 *  Days from mint to end date: 1802.2125
-*  **FRAGZ yield (max):** 5 * 4 * 1802.2125 = **36044.25**
+*  **FRAGZ yield (max):** 5 * 4 * 1802.2125 = **36,044.25**
 
 **FRAGZ**
 *  **Yield to date:** 38295 + 630 = **38 925**
-*  **Yield (max):** 1260086.625 + 36 044.25 = **1296130.875**
-*  **Current circulating supply:** Approximately 30000
+*  **Yield (max):** 1260086.625 + 36 044.25 = **1,296,130.875**
+*  **Current circulating supply:** Approximately 30,000
 *  **Market cap:** $381,653.91
 
 # Deflationary mechanisms
