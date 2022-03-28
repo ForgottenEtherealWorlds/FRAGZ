@@ -68,7 +68,7 @@ Notes:
 **Genesis** 
 * Supply: 345
 * FRAGZ yield per day: 2
-* Days since mint: 55.5 * 
+* Days since mint: 55.5
 * **FRAGZ yield to date:** 345 * 2 * 55.5 = **38 295**
 * Days from mint to end date: 1826.2125
 * **FRAGZ yield (max):** 345 * 2 * 1826.2125 = **1 260 086.625**
