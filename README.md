@@ -99,7 +99,7 @@ Notes:
 *  **FRAGZ yield (max):** 5 * 4 * 1802.2125 = **36,044.25**
 
 **FRAGZ**
-*  **Yield to date:** 38295 + 630 = **38 925**
+*  **Yield to date:** 38295 + 630 = **38,925**
 *  **Yield (max):** 1260086.625 + 36 044.25 = **1,296,130.875**
 *  **Current circulating supply:** Approximately 30,000
 *  **Market cap:** $381,653.91
