@@ -43,27 +43,7 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 
 # Token info
 
-## Genesis 
-* **Type:** ERC721
-* **Network:** Ethereum
-* **Supply:** 345 (fully claimed)
-* **Mint date:** 2022-01-30
-* **Contract** (address): 0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
-* **Contract** (deployed): https://etherscan.io/address/0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
-* **Contract** (code):
-* **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds
-* **Yield:** 2 FRAGZ per day (86400 unix time)
-
-## Genesis Prime 
-* **Type:** ERC721
-* **Network:** Ethereum
-* **Supply:** 5 (fully claimed)
-* **Mint date:** 2022-02-23
-* **Contract** (address): 0x04d65881d18b12109611df239edae21129fee73f
-* **Contract** (deployed): https://etherscan.io/address/0x04d65881d18b12109611df239edae21129fee73f
-* **Contract** (code):
-* **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds-specials
-* **Yield:** 4 FRAGZ per day (86400 unix time)
+Values are taken as of date **2022-03-26**
 
 ## FRAGZ
 
@@ -73,6 +53,35 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 * **Contract** (address): 0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (deployed): https://etherscan.io/address/0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (code):
+* **Circulating supply:** ~30,000
+* **Supply (total yield):** 38,925
+* **Supply cap:** 1,296,130.875
+* **Market cap:** $381,653.91
+
+
+## Genesis 
+* **Type:** ERC721
+* **Network:** Ethereum
+* **Mint date:** 2022-01-30
+* **Contract** (address): 0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
+* **Contract** (deployed): https://etherscan.io/address/0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
+* **Contract** (code):
+* **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds
+* **Yield:** 2 FRAGZ per day (86400 unix time)
+* **Supply:** 345 (fully claimed)
+* **Market cap:** $8,224,813.8
+
+## Genesis Prime 
+* **Type:** ERC721
+* **Network:** Ethereum
+* **Mint date:** 2022-02-23
+* **Contract** (address): 0x04d65881d18b12109611df239edae21129fee73f
+* **Contract** (deployed): https://etherscan.io/address/0x04d65881d18b12109611df239edae21129fee73f
+* **Contract** (code):
+* **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds-specials
+* **Yield:** 4 FRAGZ per day (86400 unix time)
+* **Supply:** 5 (fully claimed)
+* **Market cap:** $2,836,964.76
 
 # FRAGZ supply
 
@@ -99,10 +108,8 @@ Notes:
 *  **FRAGZ yield (max):** 5 * 4 * 1802.2125 = **36,044.25**
 
 **FRAGZ**
-*  **Yield to date:** 38295 + 630 = **38,925**
-*  **Yield (max):** 1260086.625 + 36 044.25 = **1,296,130.875**
-*  **Current circulating supply:** Approximately 30,000
-*  **Market cap:** $381,653.91
+*  **Supply to date:** 38295 + 630 = **38,925**
+*  **Supply cap:** 1260086.625 + 36 044.25 = **1,296,130.875**
 
 # Deflationary mechanisms
 
