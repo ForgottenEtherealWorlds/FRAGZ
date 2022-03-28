@@ -77,7 +77,7 @@ Notes:
 * FRAGZ yield per day: 4
 *  Days since mint: 31.5
 *  **FRAGZ yielded to date:** 5 * 4 * 31.5 = **630**
-*  * Days from mint to end date: 1802.2125
+*  Days from mint to end date: 1802.2125
 *  **FRAGZ yield (max):** 5 * 4 * 1802.2125 = **36 044.25**
 
 **FRAGZ**
