@@ -7,6 +7,7 @@ Forgotten Ethereal Worlds ("FEW") is an Ethereum-based NFT project centered arou
 
 * Website: https://forgottenethereal.world/
 * Twitter: https://twitter.com/Forgot3thWorlds
+* OpenSea (ERC721 "Genesis") https://opensea.io/collection/forgotten-ethereal-worlds
 
 This document holds details about the technical details and mechanisms ("tokenomics") of Forgotten Ethereal World's tokens:
 * FRAGZ (ERC20)
@@ -48,7 +49,7 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 * **Contract** (address): 0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
 * **Contract** (deployed): https://etherscan.io/address/0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
 * **Contract** (code):
-* **Opensea:** https://opensea.io/collection/forgotten-ethereal-worlds
+* **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds
 * **Yield:** 2 FRAGZ per day (86400 unix time)
 
 ## Genesis Prime 
