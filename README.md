@@ -102,7 +102,7 @@ Notes:
 *  **Yield to date:** 38295 + 630 = **38 925**
 *  **Yield (max):** 1260086.625 + 36 044.25 = **1296130.875**
 *  **Current circulating supply:** Approximately 30000
-*  **Market cap:** 50'000 USD
+*  **Market cap:** $381,653.91
 
 # Deflationary mechanisms
 
