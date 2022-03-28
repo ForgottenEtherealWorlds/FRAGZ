@@ -5,7 +5,7 @@ Forgotten Ethereal Worlds ("FEW") is an Ethereum-based project centered around N
 * Website: https://forgottenethereal.world/
 * Twitter: https://twitter.com/Forgot3thWorlds
 
-This document holds details about the technical details and mechanisms ("tokenomics") of Forgotten Ethereal World's tokenss:
+This document holds details about the technical details and mechanisms ("tokenomics") of Forgotten Ethereal World's tokens:
 * FRAGZ (ERC20)
 * Genesis (ERC721)
 * Genesis Prime (ERC721)
