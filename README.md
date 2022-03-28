@@ -1,3 +1,5 @@
+![enter image description here](https://i.imgur.com/GomkIzR.jpeg)
+
 # Introduction
 
 Forgotten Ethereal Worlds ("FEW") is an Ethereum-based project centered around NFT trading and crypto discussion. Forgotten Ethereal Worlds has so far released two ERC721 tokens and one ERC20 token.
