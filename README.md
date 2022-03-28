@@ -98,7 +98,7 @@ Notes:
 
 **FRAGZ**
 *  **Yield to date:** 38295 + 630 = **38 925**
-*  **Yield (max):** 1 260 086.625 + 36 044.25 = **1296130.875**
+*  **Yield (max):** 1260086.625 + 36 044.25 = **1296130.875**
 
 # Deflationary mechanisms
 
