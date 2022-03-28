@@ -53,7 +53,7 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 * **Contract** (deployed): https://etherscan.io/address/0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (code):
 
-# FRAGZ Supply
+# FRAGZ supply
 
 
 Calculations are based as of date **2022-03-26**. As previously stated, FRAGZ token generation will proceed from time of mint until **2027-01-30** which is a total of 1826.2125 days (based on time of contract deployment).
@@ -82,7 +82,7 @@ The total active and max supply of FRAGZ will fluctulate over time due to being 
 
 Todo
 
-# Liquidity Pool
+# Liquidity pool
 
 The FRAGZ liquidity pool is currently available on Dextools: https://www.dextools.io/app/ether/pair-explorer/0x976626dbe6ae90fbd7cba25e44633163d3d2ee32
 
