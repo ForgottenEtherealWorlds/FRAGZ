@@ -57,7 +57,7 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 
 * **Type:** ERC20
 * **Network**: Ethereum
-* **Supply**: 1 296 130.875 (after 5 years)
+* **Supply**: 1296130.875 (after 5 years)
 * **Contract** (address): 0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (deployed): https://etherscan.io/address/0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (code):
