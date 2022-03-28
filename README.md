@@ -96,7 +96,7 @@ Generation of FRAGZ by Genesis and Genesis Prime will stop at 2027-01-30 (180131
 
 The total active and max supply of FRAGZ fluctuate over time due to being subject to current and future destruction ("burning") mechanisms. These will function as deflationary mechanisms. We will also continuously develop more deflationary mechanisms over time in order to continuously promote a rise of price, continued interest in trading and increasing the value of the FRAGZ token. However, we will closely monitor the rate of burning in relationship to creation for the purpose of reducing price volatility and promote an orderly market.
 
-Notably, our next ERC721 token (called "Paradigm") will have a supply of 5000 and many of it's mechanisms will require the burning of FRAGZ. This concept will also apply for future ERC721 tokens released. This will sustain a high incentive to purchase and trade FRAGZ as an investment and enabling participating in future utility.
+Notably, our next ERC721 token (called "Paradigm") will have a supply of 5000 and many of it's mechanisms will require the burning of FRAGZ. This concept will also apply for future ERC721 tokens released. This will sustain a high incentive to purchase and trade FRAGZ as long-term investment and enabling participation in future utility.
 
 Current burning mechanisms:
 * Changing the name of an ERC721 token.
