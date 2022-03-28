@@ -57,11 +57,9 @@ FRAGZ will continue to be generated for approximately 5 years, specifically from
 
 # FRAGZ supply
 
-
-Calculations are based as of date **2022-03-26**. As previously stated, FRAGZ token generation will proceed from time of mint until **2027-01-30** which is a total of 1826.2125 days (based on time of contract deployment).
-
 Notes: 
 * Genesis Prime was launched after Genesis and consequently Genesis Prime has been yielding FRAGZ for a shorter amount of time.
+* As previously stated, FRAGZ token generation will proceed from time of mint until **2027-01-30** which is a total of 1826.2125 days (based on time of contract deployment).
 * Both Genesis and Genesis Prime were fully minted practically immediately upon contract launch, so for the purposes of calculation mint date of all tokens the day of contract deployment may be used to approximately summarize all token yield.
 
 **Genesis** 
