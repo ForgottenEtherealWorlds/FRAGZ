@@ -80,8 +80,6 @@ It should be noted that the total active and max supply of FRAGZ will fluctulate
 
 # Liquidity Pool
 
-The FRAGZ liquidity pool is currently available on Dextools
-
-https://www.dextools.io/app/ether/pair-explorer/0x976626dbe6ae90fbd7cba25e44633163d3d2ee32
+The FRAGZ liquidity pool is currently available on Dextools: https://www.dextools.io/app/ether/pair-explorer/0x976626dbe6ae90fbd7cba25e44633163d3d2ee32
 
 It may also be imported into Uniswap with the FRAGZ token contract address: 0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
