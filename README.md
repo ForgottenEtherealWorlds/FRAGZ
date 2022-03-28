@@ -65,7 +65,6 @@ Calculations are based as of date **2022-03-26**. As previously stated, FRAGZ to
 * **FRAGZ yield to date:** 345 * 2 * 55.5 = **38 295**
 * **FRAGZ yield (max):** 345 * 2 * 1826.2125 = **1 260 086.625**
 
-
 **Genesis Prime**
 *  Supply: 5
 * FRAGZ yield per day: 4
@@ -76,6 +75,8 @@ Calculations are based as of date **2022-03-26**. As previously stated, FRAGZ to
 **FRAGZ**
 *  **Yield to date:** 38295 + 630 = **38 925**
 *  **Yield (max):** 1 260 086.625 + 36 044.25 = **1 296 130.875**
+
+It should be noted that the total active and max supply of FRAGZ will fluctulate over time due to being subject to current and future burning mechanisms.
 
 # Liquidity Pool
 
