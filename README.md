@@ -52,7 +52,7 @@ Values are taken as of date **2022-03-26**
 * **Supply**: 1,296,130.875 (after 5 years)
 * **Contract** (address): 0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
 * **Contract** (deployed): https://etherscan.io/address/0x445ba08dad96a3d03ce8ffcbb1f246397f971b8c
-* **Contract** (code):
+* **Contract** (code): https://github.com/ForgottenEtherealWorlds/FRAGZ/tree/main/contracts/fragz
 * **Circulating supply:** ~30,000
 * **Supply (total yield):** 38,925
 * **Supply cap:** 1,296,130.875
@@ -65,7 +65,7 @@ Values are taken as of date **2022-03-26**
 * **Mint date:** 2022-01-30
 * **Contract** (address): 0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
 * **Contract** (deployed): https://etherscan.io/address/0x590bbc539d4fa56afaf030378577dd8bc6b6f0fc
-* **Contract** (code):
+* **Contract** (code): https://github.com/ForgottenEtherealWorlds/FRAGZ/tree/main/contracts/genesisFEW
 * **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds
 * **Yield:** 2 FRAGZ per day (86400 unix time)
 * **Supply:** 345 (fully claimed)
@@ -77,7 +77,7 @@ Values are taken as of date **2022-03-26**
 * **Mint date:** 2022-02-23
 * **Contract** (address): 0x04d65881d18b12109611df239edae21129fee73f
 * **Contract** (deployed): https://etherscan.io/address/0x04d65881d18b12109611df239edae21129fee73f
-* **Contract** (code):
+* **Contract** (code): https://github.com/ForgottenEtherealWorlds/FRAGZ/tree/main/contracts/primeFEW
 * **OpenSea:** https://opensea.io/collection/forgotten-ethereal-worlds-specials
 * **Yield:** 4 FRAGZ per day (86400 unix time)
 * **Supply:** 5 (fully claimed)
