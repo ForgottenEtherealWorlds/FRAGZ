@@ -137,3 +137,4 @@ Future burning mechanisms:
 # Liquidity pool
 
 The FRAGZ liquidity pool is currently available on Dextools: https://www.dextools.io/app/ether/pair-explorer/0x976626dbe6ae90fbd7cba25e44633163d3d2ee32
+In order to incentivize and promote the health and participation in the liquidity pool we will provide incentive in the form of a secondary currency to be awarded from providing liquidity to the liquidity pool. This system is not yet finalized.
